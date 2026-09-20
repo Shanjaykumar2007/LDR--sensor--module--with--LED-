@@ -117,7 +117,7 @@ RESULT
 &nbsp;
 
 ![][image4]
-
+![image4](result.jpeg)
 The automatic light-sensing circuit was successfully developed and tested using an LDR sensor module and a BJT, demonstrating a fully operational hardware switch that automatically turns the LED ON in darkness and OFF in bright light without any microcontroller programming.
 
 &nbsp;
