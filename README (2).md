@@ -13,7 +13,7 @@ To design and build an automatic light-sensing circuit using an LDR sensor modul
 ### COMPONENTS&nbsp;
 
 ![][image1]
-
+![image1](component.jpeg)
 &nbsp;
 
 #### WORKING
