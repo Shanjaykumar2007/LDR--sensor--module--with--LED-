@@ -85,7 +85,7 @@ APPLICATION
 &nbsp;
 
 ![][image3]
-
+![image3](schematicldr.png)
 &nbsp;
 
 &nbsp;
